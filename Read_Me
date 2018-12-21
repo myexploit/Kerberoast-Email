@@ -3,7 +3,7 @@ https://1337red.wordpress.com/powershell_office_macro_creator/ for how to.
 
 Quick Version
 
-1. Got Clone or copy https://raw.githubusercontent.com/myexploit/Kerberoast-Email/master/One_Liner
+1. Git Clone or copy https://raw.githubusercontent.com/myexploit/Kerberoast-Email/master/One_Liner
 2. Find and replace all three Add-Your-Test-Email-Address-Here with your test gmail email address.
 3. Find and replace the one Add-Your-Test-Email-Password-Here with your test gmail password.
 4. Login via a browser to your google account and click on Security and tick on “Less secure app access” this allows devices to login, in this case powershell but it’s the same if you use outlook with gmail.
